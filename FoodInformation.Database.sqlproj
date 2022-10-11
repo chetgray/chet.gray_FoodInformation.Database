@@ -67,5 +67,6 @@
     <Build Include="dbo\Tables\FoodCategory.sql" />
     <Build Include="dbo\Tables\FoodGeneralInfo.sql" />
     <Build Include="dbo\Stored Procedures\spGetAllFood.sql" />
+    <Build Include="dbo\Stored Procedures\spGetFoodByCategory.sql" />
   </ItemGroup>
 </Project>
