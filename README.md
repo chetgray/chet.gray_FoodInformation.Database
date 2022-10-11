@@ -11,7 +11,7 @@
 >   - [x] A FoodCategory table:
 >     - [x] Id
 >     - [x] CategoryName(American, Mexican, Chinese, etc.)
->   - [ ] A new spGetAllFood stored proc that will retrieve all the relevant
+>   - [x] A new spGetAllFood stored proc that will retrieve all the relevant
 >     food info., including its category name (use a JOIN).
 >   - [ ] A new spGetFoodByCategory stored proc that will accept a category
 >     name and return all of the food info. for that category.
