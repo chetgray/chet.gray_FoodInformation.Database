@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
+    <None Include="FoodInformation.Database.publish.xml" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\FoodCategory.sql" />

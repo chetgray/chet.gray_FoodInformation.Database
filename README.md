@@ -15,5 +15,5 @@
 >     food info., including its category name (use a JOIN).
 >   - [x] A new spGetFoodByCategory stored proc that will accept a category
 >     name and return all of the food info. for that category.
-> - [ ] Publish your table and view it in SSMS.
-> - [ ] We don't need to worry about populating it with data right now.
+> - [x] Publish your table and view it in SSMS.
+> - [x] We don't need to worry about populating it with data right now.
