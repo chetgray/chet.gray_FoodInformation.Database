@@ -2,15 +2,15 @@
 
 #211886
 > Create and Publish a database via a Database Project in Visual Studio.
-> - [ ] Create a FoodInformation Database
+> - [x] Create a FoodInformation Database
 > - [ ] Within the database, create:
->   - [ ] A FoodGeneralInfo table:
->     - [ ] Id
->     - [ ] Name
->     - [ ] FoodCategoryId (points to new Food Category table)
->   - [ ] A FoodCategory table:
->     - [ ] Id
->     - [ ] CategoryName(American, Mexican, Chinese, etc.)
+>   - [x] A FoodGeneralInfo table:
+>     - [x] Id
+>     - [x] Name
+>     - [x] FoodCategoryId (points to new Food Category table)
+>   - [x] A FoodCategory table:
+>     - [x] Id
+>     - [x] CategoryName(American, Mexican, Chinese, etc.)
 >   - [ ] A new spGetAllFood stored proc that will retrieve all the relevant
 >     food info., including its category name (use a JOIN).
 >   - [ ] A new spGetFoodByCategory stored proc that will accept a category
